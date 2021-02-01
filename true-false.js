@@ -111,4 +111,18 @@ else {
     console.log("condition is false ");
 }
 
+let one = true;
+if (1) {
+    console.log("condition is true ONE");
+}
+else {
+    console.log("condition is false ");
+}
 
+let zero = false;
+if (zero == 0) {
+    console.log("condition is true Zero");
+}
+else {
+    console.log("condition is false ");
+}
