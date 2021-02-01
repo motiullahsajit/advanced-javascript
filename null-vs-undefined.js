@@ -27,7 +27,7 @@ console.log(ages[11]);
 
 
 //null=empty
-// null is set any elements value null
+// null is set any elements value nulld
 let sum = 50;
 if (sum < 100) {
     sum = null;
